@@ -1,7 +1,6 @@
 #Presentation
 
-👋 I'm Baptiste ARNOULD, a young student in Aerospace Engineering. My main interests are in rocket propulsion, mechanical design, and thermal/stress/vibration analysis of space devices.
-I am currently enrolled in Polytechnique Montreal where I persue a master degree in Aerospace engineering focusing on space technologies. 
+👋 As a Ph.D. student at Polytechnique Montréal, I focus on Computational Fluid Dynamics (CFD) research, with particular expertise in simulating turbulent flows in aerodynamics. My primary research area is Detached Eddy Simulation (DES), a hybrid approach that combines RANS and LES techniques to model turbulent flow phenomena in aerodynamics.
 
 You can reach me on my Linkedin page: https://www.linkedin.com/in/baptiste-arnould 📫
 
